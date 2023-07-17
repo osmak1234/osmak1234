@@ -2,7 +2,7 @@
 
 I'm a Linux enthusiast. (Arch btw)
 - [Dotfiles](https://github.com/osmak1234/dots.git)
-- 
+
 ## Languages
 Rust <br>
 Typescript<br>
