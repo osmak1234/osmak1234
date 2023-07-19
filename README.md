@@ -1,6 +1,6 @@
 # Hi, I'm Tadeas 👋
 
-## My [whoogle instancelink](https://tadeas-h-whoogle-5d8b6ce9ff67.herokuapp.com/)
+## My [whoogle instance](https://tadeas-h-whoogle-5d8b6ce9ff67.herokuapp.com/)
 <br>
 ## About me
 My main focus currently is on the backend, that's why I'm learing about webservers, networking, optimatization, etc... <br>
