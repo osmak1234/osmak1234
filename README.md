@@ -3,9 +3,9 @@ My main focus currently is on the backend, that's why I'm learing about webserve
 I'm a Linux enthusiast.
 
 ## Languages
-Rust (medium sized projects) <br>
+Typescript (enterprise large projects) <br>
+Rust (large sized backend projects) <br>
 Sql (medium sized projects) <br>
-Typescript (medium sized projects) <br>
 Javascript (medium sized projects) <br>
 Go (small and simple webservers) <br>
 C++ for embeded (small size projects) <br>
