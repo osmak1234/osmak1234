@@ -1,6 +1,6 @@
 ## About me
 My main focus currently is on the backend, that's why I'm learing about webservers, networking, optimization, etc... <br>
-I'm a Linux enthusiast.
+I'm a tech enthusiast.
 
 ## Languages
 Typescript (enterprise large projects) <br>
